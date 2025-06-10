@@ -1,0 +1,12 @@
+# Ignore database file
+*.db
+
+# Ignore logs
+*.log
+log_file.txt
+
+# Ignore generated chart image
+*.png
+
+# Ignore Python cache
+__pycache__/
